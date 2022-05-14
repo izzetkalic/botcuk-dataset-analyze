@@ -19,4 +19,4 @@ Veriseti                                         | En İyi Model  | Accuracy    
 Veriseti                                       | En İyi Model  | Exact Match |  F1        
 :----------------------------------------------|:--------------|:-----------:|:----------:
 [TQuad Veriseti](datasets/qa-tquad/README.md)  | ELECTRA Base  | 61.5385     | 80.3351
-[ITU Veriseti](datasets/qa-itu/README.md)      | ELECTRA Base  | 65.0746     | 82.9919
+[YTU Veriseti](datasets/qa-ytu/README.md)      | ELECTRA Base  | 65.0746     | 82.9919

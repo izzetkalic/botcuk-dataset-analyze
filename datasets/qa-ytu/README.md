@@ -1,7 +1,7 @@
 
 [Main Page](../../README.md)
 
-# ITU Dataset
+# YTU Dataset
 
 [TR] [Prof.Dr. Banu DİRİ](https://avesis.yildiz.edu.tr/diri) tarafından hazırlanan soru-cevap verisetidir. İlgili verisetine ulaşmak için kendisi ile iletişime geçiniz.
 
