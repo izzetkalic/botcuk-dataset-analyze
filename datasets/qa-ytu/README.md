@@ -5,7 +5,7 @@
 
 [TR] [Prof.Dr. Banu DİRİ](https://avesis.yildiz.edu.tr/diri) tarafından hazırlanan soru-cevap verisetidir. İlgili verisetine ulaşmak için kendisi ile iletişime geçiniz.
 
-[EN] 
+[EN] It is a question-answer dataset prepared by [Prof.Dr. Banu DİRİ](https://avesis.yildiz.edu.tr/diri). Please contact her to access the dataset.
 
 # Fine Tuning Metrics
 

@@ -5,7 +5,7 @@
 
 [TR] Yarışma kapsamında hazırlanan Türkçe soru-cevap [verisetidir](https://github.com/TQuad/turkish-nlp-qa-dataset).
 
-[EN]
+[EN] It is the Turkish question-answer [dataset](https://github.com/TQuad/turkish-nlp-qa-dataset) prepared within the scope of a competition.
 
 # Fine Tuning Metrics
 

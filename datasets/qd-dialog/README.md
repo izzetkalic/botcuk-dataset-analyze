@@ -5,7 +5,7 @@
 
 [TR] [Qi Jia ve diğerleri](https://github.com/JiaQiSJTU/QAmatching) tarafından yayınlanan bir makale için hazırlanan verisetidir. Çince doktor-hasta diyalog kayıtlarını içeren veriseti [Google Translate API](https://cloud.google.com/translate) yardımıyla Türkçeye çevrilerek kullanılmıştır.
 
-[EN]
+[EN] This dataset is a part of an article published by [Qi Jia et al](https://github.com/JiaQiSJTU/QAmatching). The dataset containing the Chinese doctor-patient dialogue records was translated into Turkish with the help of [Google Translate API](https://cloud.google.com/translate).
 
 # Fine Tuning Metrics
 

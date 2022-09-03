@@ -5,7 +5,7 @@
 
 [TR] Bu veriseti iki farklı kaynaktan beslenmiştir. Birincisi [Quora](https://www.kaggle.com/competitions/quora-question-pairs/submit) tarafından bir yarışma için yayınlanan verisetidir. [Google Translate API](https://cloud.google.com/translate) ile Türkçeye çevrilmiş (ilk 8000 adedi) ve kayıtlar soru olarak etiketlenmiştir. İkincisi ise negatif örnek olması açısından Wikipedia'dan alınıp temizlenen [cümle verisetidir](https://www.kaggle.com/datasets/ahmetax/hury-dataset). Soru değil şeklinde etiketlenerek verisetine dahil edilmiştir.
 
-[EN]
+[EN] This dataset consists of a combination of two different datasets. The first is the dataset published by Quora](https://www.kaggle.com/competitions/quora-question-pairs/submit) for a competition. Translated into Turkish with [Google Translate API](https://cloud.google.com/translate) (the first 8000 row) and the records are labelled as questions (Q). The second is the [sentence dataset](https://www.kaggle.com/datasets/ahmetax/hury-dataset) taken from Wikipedia to be a negative example. Labeled as not question (NQ) and included in the dataset.
 
 # Fine Tuning Metrics
 

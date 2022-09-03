@@ -5,7 +5,7 @@
 
 [TR] [Özger ve diğerleri](https://www.researchgate.net/publication/269270054_Question_identification_on_Turkish_tweets) tarafından Türkçe tweetler toplanıp etiketlenerek oluşturulan verisetidir. Tweetler soru şekline göre ayrıştırılmış ve elle etiketlenmiştir. Veriseti için [Zeynep Banu Özger](https://akademik.ksu.edu.tr/Default.aspx?kod=RPiLQi1MpsC/kKBGpozQCS2FGrgd3NQFollrxZSvQkI=) ile iletişime geçiniz.
 
-[EN] 
+[EN] This dataset was created by [Özger et al.](https://www.researchgate.net/publication/269270054_Question_identification_on_Turkish_tweets) by collecting Turkish tweets. Tweets are separated by question types and labelled manually. Please contact [Zeynep Banu Özger](https://akademik.ksu.edu.tr/Default.aspx?kod=RPiLQi1MpsC/kKBGpozQCS2FGrgd3NQFollrxZSvQkI=) for the dataset.
 
 # Fine Tuning Metrics
 
