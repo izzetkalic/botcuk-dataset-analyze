@@ -1,7 +1,7 @@
 *[English](README.md), [Türkçe](README.tr.md)*
 
 
-> The results and dataset are a part of my dissertation. It will be published soon.
+> The results and datasets are a part of my dissertation. It will be published soon.
 # BERTurk Performance Analysis on Text Classification and Question Answering Tasks in Turkish Datasets
 
 The datasets that are used in this project were trained in order to be used in text classification and question answering tasks by using the [BERTurk](https://github.com/stefan-it/turkish-bert) model and [Colab](https://colab.research.google.com/) platform. The obtained results are published in this repository.
