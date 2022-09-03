@@ -25,10 +25,13 @@ ELECTRA Base  | Train/Eval  | <b>65.0746  |  <b>82.9919
 
 # Fine Tuning Metrics by Step
 
-<span style="color:rgb(0, 108, 179)">BERTurk</span> -~- 
-<span style="color:rgb(45, 179, 235)">DistilBERTurk</span> -~- 
-<span style="color:rgb(255, 101, 58)">ConvBERTurk</span> -~- 
-<span style="color:rgb(5, 142, 125)">ELECTRA Base</span>
+<img src="../../placeholder/0_108_179.png" width="5%" /> BERTurk
+-~- 
+<img src="../../placeholder/45_179_235.png" width="5%" /> DistilBERTurk
+-~- 
+<img src="../../placeholder/255_101_58.png" width="5%" /> ConvBERTurk
+-~- 
+<img src="../../placeholder/5_142_125.png" width="5%" />  ELECTRA Base
 
 Exact Match                |  F1
 :-------------------------:|:-------------------------:

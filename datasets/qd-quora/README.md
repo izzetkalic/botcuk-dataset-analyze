@@ -25,10 +25,13 @@ ELECTRA Base  | Train/Eval  | <b>0.959178 |  0.952355    | 0.893072      | <b>0.
 
 # Fine Tuning Metrics by Step
 
-<span style="color:rgb(255, 101, 58)">BERTurk</span> -~- 
-<span style="color:rgb(4, 122, 107)">DistilBERTurk</span> -~- 
-<span style="color:rgb(189, 43, 17)">ConvBERTurk</span> -~- 
-<span style="color:rgb(235, 45, 108)">ELECTRA Base</span>
+<img src="../../placeholder/255_101_58.png" width="5%" /> BERTurk
+-~- 
+<img src="../../placeholder/4_122_107.png" width="5%" /> DistilBERTurk
+-~- 
+<img src="../../placeholder/189_43_17.png" width="5%" /> ConvBERTurk
+-~- 
+<img src="../../placeholder/235_45_108.png" width="5%" />  ELECTRA Base
 
 Accuracy                   |  F1
 :-------------------------:|:-------------------------:
