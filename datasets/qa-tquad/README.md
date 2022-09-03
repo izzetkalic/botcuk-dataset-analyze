@@ -24,13 +24,13 @@ ELECTRA Base  | Train/Eval  | <b>61.5385  |  <b>80.3351
 <br/>
 
 # Fine Tuning Metrics by Step
-<img src="../../placeholder/255_101_58.png" width="5%" /> BERTurk
+<img src="../../placeholders/255_101_58.png" width="5%" /> BERTurk
 -~- 
-<img src="../../placeholder/197_45_18.png" width="5%" /> DistilBERTurk
+<img src="../../placeholders/197_45_18.png" width="5%" /> DistilBERTurk
 -~- 
-<img src="../../placeholder/235_45_108.png" width="5%" /> ConvBERTurk
+<img src="../../placeholders/235_45_108.png" width="5%" /> ConvBERTurk
 -~- 
-<img src="../../placeholder/179_179_179.png" width="5%" />  ELECTRA Base
+<img src="../../placeholders/179_179_179.png" width="5%" />  ELECTRA Base
 
 <span style="color:rgb(255, 101, 58)">BERTurk</span> -~- 
 <span style="color:rgb(197, 45, 18)">DistilBERTurk</span> -~- 

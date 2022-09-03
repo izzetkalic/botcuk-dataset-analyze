@@ -1,5 +1,7 @@
 *[English](README.md), [Türkçe](README.tr.md)*
 
+> Paylaşılan sonuçlar ve verisetleri tezimin bir parçasıdır. Yakında paylaşıma açılacaktır.
+
 # Cümle Sınıflandırma ve Soru Cevaplama Görevleri için BERTTurk Modeli ile Türkçe Verisetleri Üzerinde Performans Analizi
 
 Bu verisetleri [BERTurk](https://github.com/stefan-it/turkish-bert) modeli kullanılarak [Colab](https://colab.research.google.com/) yardımıyla cümle sınıflandırma ve soru cevapları görevinde kullanılmak üzere eğitilmiştir. Elde edilen sonuçlar ve verisetleri bu projede paylaşılmıştır.
