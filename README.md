@@ -8,6 +8,8 @@ The datasets that are used in this project were trained in order to be used in t
 
 The datasets were cleaned and standardized and divided into training (70%), validation (20%), and testing (10%). In addition, the character and word counts of each input were calculated to be used in visual analysis, and the elements of the sentence were extracted with the [Zemberek](https://github.com/ahmetaa/zemberek-nlp) tool and included in the datasets.
 
+You can find all fine-tuned models on [Huggingface](https://huggingface.co/Izzet).
+
 ## Question Detection Datasets
 
 Dataset                                          | Best Model    | Accuracy    |  Precision   | Recall      | F1       

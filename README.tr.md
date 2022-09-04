@@ -8,6 +8,8 @@ Bu verisetleri [BERTurk](https://github.com/stefan-it/turkish-bert) modeli kulla
 
 Verisetleri temizlenip standartlaştırılarak eğitim (%70), doğrulama (%20) ve test (%10) olarak ayrılmıştır. Ek olarak görsel analizde kullanılmak üzere her bir girdinin karakter ve kelime sayıları hesaplanmış ve [Zemberek](https://github.com/ahmetaa/zemberek-nlp) aracı ile cümlenin öğeleri çıkarılarak verisetlerine dahil edilmiştir.
 
+İnce ayar yapılmış tüm modellere [Huggingface](https://huggingface.co/Izzet) üzerinden erişebilirsiniz.
+
 ## Soru Tanıma Verisetleri
 
 Veriseti                                         | En İyi Model  | Accuracy    |  Precision   | Recall      | F1      
