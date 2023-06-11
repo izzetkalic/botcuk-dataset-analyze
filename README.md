@@ -21,7 +21,7 @@ Dataset                                          | Best Model    | Accuracy    |
 
 ## Question Answering Datasets
 
-Dataset                                        | Best Model    | Accuracy    |  Precision   
+Dataset                                        | Best Model    | Exact Match |  F1   
 :----------------------------------------------|:--------------|:-----------:|:------------:
 [TQuad Dataset](datasets/qa-tquad/README.md)   | ELECTRA Base  | 61.5385     | 80.3351
 [YTU Dataset](datasets/qa-ytu/README.md)       | ELECTRA Base  | 65.0746     | 82.9919 
